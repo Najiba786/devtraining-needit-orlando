@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create and impersonate user with the following values:
+First name = Jade
+and Last name = Erlebach
+With roles: admin</description>
+        <display_name>Create a User</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>e14b08a2dbb12010acb65608689619eb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_e14b08a2dbb12010acb65608689619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 00:23:28</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="When needed - Future">abea8ca2dbb12010acb65608689619e3</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=e14b08a2dbb12010acb65608689619eb"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>214b08a2dbb12010acb65608689619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 22:24:43</sys_updated_on>
+        <value/>
+        <variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>214bc0e2dbb12010acb65608689619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 22:24:43</sys_updated_on>
+        <value/>
+        <variable display_value="">1778a7480f20101091d0f00c97767e03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>254b08a2dbb12010acb65608689619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 22:24:43</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>6d4b08a2dbb12010acb65608689619ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 23:27:44</sys_updated_on>
+        <value>2831a114c611228501d4ea6c309d626d</value>
+        <variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>6d4bc0e2dbb12010acb656086896199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 22:24:43</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">ff06ab840f20101091d0f00c97767e6d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>a94bc0e2dbb12010acb656086896199f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 23:54:15</sys_updated_on>
+        <value>Jade</value>
+        <variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e14b08a2dbb12010acb65608689619eb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 22:24:43</sys_created_on>
+        <sys_id>e54bc0e2dbb12010acb656086896199f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 23:54:15</sys_updated_on>
+        <value>Erlebach</value>
+        <variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>46feb260db50bf8007072f17d4961988</instance_id>
+        <instance_name>dev75491</instance_name>
+        <name>sys_atf_step_e14b08a2dbb12010acb65608689619eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create and impersonate user with the following values:
+First name = Jade
+and Last name = Erlebach
+With roles: admin</description><display_name>Create a User</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>e14b08a2dbb12010acb65608689619eb</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Create a User</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_e14b08a2dbb12010acb65608689619eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-22 00:23:28</sys_updated_on><table>sys_user</table><test display_value="When needed - Future">abea8ca2dbb12010acb65608689619e3</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=e14b08a2dbb12010acb65608689619eb"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>214b08a2dbb12010acb65608689619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 22:24:43</sys_updated_on><value/><variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>214bc0e2dbb12010acb65608689619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 22:24:43</sys_updated_on><value/><variable display_value="">1778a7480f20101091d0f00c97767e03</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>254b08a2dbb12010acb65608689619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 22:24:43</sys_updated_on><value>1</value><variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>6d4b08a2dbb12010acb65608689619ee</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 23:27:44</sys_updated_on><value>2831a114c611228501d4ea6c309d626d</value><variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>6d4bc0e2dbb12010acb656086896199f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 22:24:43</sys_updated_on><value>sys_user</value><variable display_value="">ff06ab840f20101091d0f00c97767e6d</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>a94bc0e2dbb12010acb656086896199f</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 23:54:15</sys_updated_on><value>Jade</value><variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e14b08a2dbb12010acb65608689619eb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 22:24:43</sys_created_on><sys_id>e54bc0e2dbb12010acb656086896199f</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 23:54:15</sys_updated_on><value>Erlebach</value><variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>1651072369</payload_hash>
+        <record_name>Create a User</record_name>
+        <reverted_from/>
+        <source>de7c8197db052010acb65608689619a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 00:23:28</sys_created_on>
+        <sys_id>857660aadbf12010acb656086896196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17727797aa60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 00:23:28</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>cd7660aa52f1201065c98f3171dd7e6c</update_guid>
+        <update_guid_history>cd7660aa52f1201065c98f3171dd7e6c:1651072369,fd6620aaeaf12010b60bfba9f361ffe7:1846614450,81cf902634f12010996bbbd9ef1715a7:1651072369,34b998aefcb12010363046b38f8e3d70:-1529616713,1399d0eed5b12010244f7a9392dc157f:55433561,e54bc0e250b120105c9e32484d3d7aa2:-1953571452</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 00:31:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>05500d62cfcc473b8063787a45a84a09</sys_id>
+        <sys_metadata>e14b08a2dbb12010acb65608689619eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_e14b08a2dbb12010acb65608689619eb</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_e14b08a2dbb12010acb65608689619eb">857660aadbf12010acb656086896196d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 00:31:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
